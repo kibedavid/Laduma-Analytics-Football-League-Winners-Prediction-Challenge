@@ -6,4 +6,5 @@ The objective of this challenge is to predict the outcome of a football match, b
 
 This solution will be useful to Laduma Analytics to widen the types of services they offer, and it will also be useful to you. You will be able to impress your friends with the accuracy of your predictions when applying this to upcoming games in your country.
 
+! gdown --id link from drive
 
